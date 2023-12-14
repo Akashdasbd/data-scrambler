@@ -1,0 +1,17 @@
+.body-width {
+    background: green;
+    width: 700px;
+    max-width: 700px;
+    margin: auto;
+    padding: 60px;
+}
+
+label {
+    display: inline-block;
+    width: 100%;
+    color: wheat;
+}
+
+textarea {
+    width: 100%;
+}
